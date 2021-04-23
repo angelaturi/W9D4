@@ -1,0 +1,18 @@
+.page-header {
+    font-family: 'Fredoka One', cursive;
+    font-size: 35px;
+    color: #1da1f2;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+input[type="submit"], button {
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: #1da1f2;
+    color: white;
+    margin-bottom: 25px;
+}
